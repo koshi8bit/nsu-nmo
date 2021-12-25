@@ -1,0 +1,16 @@
+	channels1	channels2	channels3	kernel_size1	kernel_size2	kernel_size3	fc1	fc2	fc3	is_max_pool	activation	avg	max	min	ch_c	conv_c	fc_c	num_epochs
+0	6	16	0	5	5	0	120	84	0	True	elu	53.58	70.7	31.8	2	2	2	3
+1	6	16	0	5	5	0	200	100	0	True	elu	55.33	77.1	28.9	2	2	2	3
+2	6	16	0	7	3	0	120	84	0	True	elu	52.2	67.8	31.5	2	2	2	3
+3	6	16	0	7	3	0	200	100	0	True	elu	53.24	69.2	32.4	2	2	2	3
+4	6	16	0	5	5	0	120	84	0	True	softsign	51.88	67.0	31.1	2	2	2	3
+5	6	16	0	5	5	0	200	100	0	True	softsign	53.17	68.6	30.7	2	2	2	3
+6	6	16	0	7	3	0	120	84	0	True	softsign	49.7	68.1	26.9	2	2	2	3
+7	6	16	0	7	3	0	200	100	0	True	softsign	50.12	66.1	29.3	2	2	2	3
+8	6	16	0	5	5	0	120	84	0	True	tanh	52.98	65.3	30.8	2	2	2	3
+9	6	16	0	5	5	0	200	100	0	True	tanh	54.04	75.9	28.4	2	2	2	3
+10	6	16	0	7	3	0	120	84	0	True	tanh	51.67	70.8	29.0	2	2	2	3
+11	6	16	0	7	3	0	200	100	0	True	tanh	52.05	66.9	28.2	2	2	2	3
+12	6	16	0	5	5	0	200	100	0	True	elu	54.68	70.1	32.2	2	2	2	3
+13	6	16	0	5	5	0	200	100	0	True	elu	61.26	78.5	37.7	2	2	2	7
+14	6	16	0	5	5	0	200	100	0	True	elu	64.77	77.9	43.8	2	2	2	13

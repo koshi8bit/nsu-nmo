@@ -1,0 +1,10 @@
+	channels1	channels2	channels3	kernel_size1	kernel_size2	kernel_size3	fc1	fc2	fc3	is_max_pool	activation	avg	max	min	ch_c	conv_c	fc_c	num_epochs	lr
+0	6	16	0	5	5	0	200	100	0	True	elu	10.0	100.0	0.0	2	2	2	3	0.005
+1	6	16	0	5	5	0	200	100	0	True	elu	61.42	83.0	46.9	2	2	2	3	0.0005
+2	6	16	0	5	5	0	200	100	0	True	elu	50.85	71.6	30.3	2	2	2	3	5e-05
+3	6	16	0	5	5	0	200	100	0	True	elu	10.0	100.0	0.0	2	2	2	7	0.005
+4	6	16	0	5	5	0	200	100	0	True	elu	66.46	78.1	46.7	2	2	2	7	0.0005
+5	6	16	0	5	5	0	200	100	0	True	elu	56.36	80.4	32.2	2	2	2	7	5e-05
+6	6	16	0	5	5	0	200	100	0	True	elu	10.0	100.0	0.0	2	2	2	13	0.005
+7	6	16	0	5	5	0	200	100	0	True	elu	65.48	78.9	43.2	2	2	2	13	0.0005
+8	6	16	0	5	5	0	200	100	0	True	elu	60.17	77.4	30.7	2	2	2	13	5e-05
